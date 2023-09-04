@@ -7,7 +7,12 @@ Generate cool QR codes using stable diffusion like these:
 ![AIQrCode dc3c23c3d5ac5e13](https://github.com/thirtyninetythree/ai-qr-code/assets/98053458/4785b011-417e-4c21-b8cf-55af24e68dc4)
 
 It's in 3 parts:
-1 the vm with a gpu, torchserve as our gpu server
-2 the server to handle requests
-3 the frontend interface
+- the vm with a gpu, torchserve as our gpu server
+- the server to handle requests
+- the frontend interface
+
+Try it out here in this colab:
+
+https://colab.research.google.com/drive/1MbIBbQEzi93kObKyWv1J6WEvfb_6nN3O?usp=sharing
+
 
