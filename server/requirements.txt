@@ -1,0 +1,6 @@
+Flask
+gunicorn
+google-cloud-storage
+firebase-admin
+numpy
+pillow
